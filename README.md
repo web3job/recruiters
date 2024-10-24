@@ -7,13 +7,13 @@ updated at 2024-10-24
 
 # Web3招聘平台汇总
 
-1. **[Web3 Career](https://web3.career/)**
+1. **[Web3 Career](https://web3.career/?ref=github.com/web3job/recruiters)**
    - **语言**: 英语
    - **说明**: 一个专注于Web3行业的招聘平台，提供全球范围内的远程和本地工作机会，涵盖多个技术职位，适合希望进入Web3领域的求职者。
    - **推荐指数**: ★★★★★
    - **排名理由**: 高访问量、定期更新职位、在Web3求职领域知名度较高。
 
-2. **[Remote3.co](https://remote3.co/)**
+2. **[Remote3.co](https://remote3.co/?ref=github.com/web3job/recruiters)**
    - **语言**: 英语
    - **说明**: 提供全球范围内Web3相关的远程职位，包括区块链、DeFi、NFT等多个领域的工作机会。
    - **推荐指数**: ★★★★☆
