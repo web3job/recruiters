@@ -19,19 +19,19 @@ updated at 2024-10-24
    - **推荐指数**: ★★★★☆
    - **排名理由**: 定期更新职位，专注于远程工作，但知名度略逊于其他平台。
 
-3. **[CryptocurrencyJobs](https://cryptocurrencyjobs.co/web3/)**
+3. **[CryptocurrencyJobs](https://cryptocurrencyjobs.co/web3/?ref=github.com/web3job/recruiters)**
    - **语言**: 英语
    - **说明**: 提供加密货币和Web3领域的招聘信息，涵盖技术和非技术职位。
    - **推荐指数**: ★★★★★
    - **排名理由**: 知名度高，职位覆盖面广，更新频率高。
 
-4. **[Jobs3.io](https://jobs3.io/)**
+4. **[Jobs3.io](https://jobs3.io/?ref=github.com/web3job/recruiters)**
    - **语言**: 英语
    - **说明**: 旨在为Web3和区块链行业的求职者提供全球范围内的工作机会，聚合多个招聘源。
    - **推荐指数**: ★★★★☆
    - **排名理由**: 更新频率较好，平台用户活跃度中等。
 
-5. **[电鸭社区](https://eleduck.com/categories/5)**
+5. **[电鸭社区](https://eleduck.com/categories/5?ref=github.com/web3job/recruiters)**
    - **语言**: 中文
    - **说明**: 国内远程工作社区，提供包括Web3在内的远程职位，同时支持外包和兼职机会。
    - **推荐指数**: ★★★★★
