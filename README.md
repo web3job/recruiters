@@ -103,13 +103,13 @@ updated at 2024-10-24
     - **推荐指数**: ★★★★☆
     - **排名理由**: 社区驱动，职位发布较为频繁。
 
-17. **[GitHub RemoteInTech](https://github.com/remoteintech/remote-jobs)**
+17. **[GitHub RemoteInTech](https://github.com/remoteintech/remote-jobs?ref=github.com/web3job/recruiters)**
     - **语言**: 英语
     - **说明**: 汇总全球支持远程工作的公司列表，提供技术类职位，适合寻找远程职位的开发者。
     - **推荐指数**: ★★★★☆
     - **排名理由**: 社区共享，信息可靠。
 
-18. **[Stablegram](https://stablegram.com/)**
+18. **[Stablegram](https://stablegram.com/?ref=github.com/web3job/recruiters)**
     - **语言**: 英语
     - **说明**: 帮助求职者找到有前途的Web3公司，主要集中于加密货币和区块链领域。
     - **推荐指数**: ★★★★☆
@@ -128,19 +128,19 @@ updated at 2024-10-24
     - **排名理由**: 平台活跃度中等，但更新频率稍低。
 
 
-21. **[Upwork](https://www.upwork.com/)**
+21. **[Upwork](https://www.upwork.com/?ref=github.com/web3job/recruiters)**
     - **语言**: 英语
     - **说明**: 全球最大的自由职业平台之一，提供各种远程工作机会，包括开发、设计、写作等多个领域，支持Web3相关职位的搜索。
     - **推荐指数**: ★★★★★
     - **排名理由**: 拥有广泛的用户基础和丰富的职位更新频率，知名度极高。
 
-22. **[Web3日文](https://web3-expert.com/)**
+22. **[Web3日文](https://web3-expert.com/?ref=github.com/web3job/recruiters)**
     - **语言**: 日语
     - **说明**: 专注于Web3行业的日语招聘平台，提供加密货币、区块链和Web3相关的工作机会，适合日语用户。
     - **推荐指数**: ★★★☆☆
     - **排名理由**: 聚焦日语市场，平台新兴但发展潜力大。
 
-23. **[Wellfound](https://wellfound.com/)**
+23. **[Wellfound](https://wellfound.com/?ref=github.com/web3job/recruiters)**
     - **语言**: 英语
     - **说明**: 以前称为AngelList，提供初创企业的招聘信息，涵盖Web3、区块链等新兴技术领域，特别适合寻找高潜力公司的职位。
     - **推荐指数**: ★★★★★
