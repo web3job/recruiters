@@ -43,55 +43,55 @@ updated at 2024-10-24
    - **推荐指数**: ★★★★☆
    - **排名理由**: 平台较为新颖，但知名度尚未达到顶级。
 
-7. **[A Better Web3](https://abetterweb3.notion.site/)**
+7. **[A Better Web3](https://abetterweb3.notion.site/?ref=github.com/web3job/recruiters)**
    - **语言**: 中文
    - **说明**: 基于Notion的中文Web3招聘社区，提供技术职位以及学习资源。
    - **推荐指数**: ★★★★☆
    - **排名理由**: 社区较为新兴，内容聚焦Web3领域，但用户规模有限。
 
-8. **[DeFi Jobs](https://www.defi.jobs/)**
+8. **[DeFi Jobs](https://www.defi.jobs/?ref=github.com/web3job/recruiters)**
    - **语言**: 英语
    - **说明**: 专门为去中心化金融（DeFi）领域提供招聘信息，帮助DeFi领域求职者找到合适的职位。
    - **推荐指数**: ★★★★★
    - **排名理由**: 受DeFi领域广泛认可，更新频率高，职位质量优。
 
-9. **[Foresight News Job](https://foresightnews.pro/job)**
+9. **[Foresight News Job](https://foresightnews.pro/job?ref=github.com/web3job/recruiters)**
    - **语言**: 中文 + 英文
    - **说明**: Foresight News是一个聚焦加密货币和Web3的内容平台，提供定期的招聘信息。
    - **推荐指数**: ★★★★☆
    - **排名理由**: 以新闻为主，但也提供较为丰富的招聘信息，受用户欢迎。
 
-10. **[CryptoJobsList](https://cryptojobslist.com/web3)**
+10. **[CryptoJobsList](https://cryptojobslist.com/web3?ref=github.com/web3job/recruiters)**
     - **语言**: 英语
     - **说明**: 提供全球范围内的Web3、区块链和加密货币领域的职位，覆盖工程、市场营销等多个职位。
     - **推荐指数**: ★★★★★
     - **排名理由**: 知名度高，职位更新频繁，行业认可度高。
 
-11. **[LinkedIn Web3 Jobs](https://www.linkedin.com/jobs/web3-jobs/)**
+11. **[LinkedIn Web3 Jobs](https://www.linkedin.com/jobs/web3-jobs/?ref=github.com/web3job/recruiters)**
     - **语言**: 全语言
     - **说明**: LinkedIn提供全球范围内的Web3和区块链相关工作机会，适合希望寻找各类职位的求职者。
     - **推荐指数**: ★★★★★
     - **排名理由**: 职位广泛的平台，职位比较可靠，但查找Web3职位可能稍微不便。
 
-12. **[Crypto.jobs](https://crypto.jobs/)**
+12. **[Crypto.jobs](https://crypto.jobs/?ref=github.com/web3job/recruiters)**
     - **语言**: 英语
     - **说明**: 提供加密货币和区块链行业的全球招聘机会，涵盖多个技术和非技术职位。
     - **推荐指数**: ★★★★☆
     - **排名理由**: 平台较为活跃，但知名度略低于其他主流平台。
 
-13. **[DeJob](https://www.dejob.top/job)**
+13. **[DeJob](https://www.dejob.top/job?ref=github.com/web3job/recruiters)**
     - **语言**: 中文 + 英文
     - **说明**: 一个公益性的Web3招聘平台，提供多种语言和技术领域的工作机会。
     - **推荐指数**: ★★★★☆
     - **排名理由**: 平台以公益性为主，更新速度相对较慢。
 
-14. **[登链社区](https://learnblockchain.cn/jobs)**
+14. **[登链社区](https://learnblockchain.cn/jobs?ref=github.com/web3job/recruiters)**
     - **语言**: 中文
     - **说明**: 国内的区块链技术社区，提供Web3相关的招聘信息，主要面向开发者和技术人才。
     - **推荐指数**: ★★★★☆
     - **排名理由**: 技术社区强大，但职位更新频率一般。
 
-15. **[HollyHires](https://www.hollyhires.ai/)**
+15. **[HollyHires](https://www.hollyhires.ai/?ref=github.com/web3job/recruiters)**
     - **语言**: 英语
     - **说明**: 为AI和Web3领域提供职位，连接全球顶尖企业与技术人才。
     - **推荐指数**: ★★★☆☆
