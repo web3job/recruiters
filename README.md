@@ -146,55 +146,55 @@ updated at 2024-10-24
     - **推荐指数**: ★★★★★
     - **排名理由**: 在初创企业招聘中具有较高的知名度，职位更新速度快。
 
-24. **[Remote OK](https://remoteok.com/)**
+24. **[Remote OK](https://remoteok.com/?ref=github.com/web3job/recruiters)**
     - **语言**: 英语
     - **说明**: 全球领先的远程工作招聘平台之一，涵盖多个技术领域，包括Web3相关职位，适合全球求职者。
     - **推荐指数**: ★★★★★
     - **排名理由**: 知名度高，职位更新频繁，平台活跃用户多。
 
-25. **[远程.work](https://yuancheng.work/)**
+25. **[远程.work](https://yuancheng.work/?ref=github.com/web3job/recruiters)**
     - **语言**: 中文
     - **说明**: 中文远程工作平台，提供包括Web3和技术类职位的远程机会，适合寻找远程工作的中文用户。
     - **推荐指数**: ★★★☆☆
     - **排名理由**: 中文用户社区较大，但平台的国际知名度相对较低。
 
-26. **[UseWeb3](https://www.useweb3.xyz/)**
+26. **[UseWeb3](https://www.useweb3.xyz/?ref=github.com/web3job/recruiters)**
     - **语言**: 英语
     - **说明**: 一个专注于Web3开发者资源和工作机会的平台，提供技术类职位并支持开发者成长。
     - **推荐指数**: ★★★☆☆
     - **排名理由**: 专注于开发者资源，社区小但发展潜力较大。
 
-27. **[CryptoJobsDaily](https://cryptojobsdaily.com/)**
+27. **[CryptoJobsDaily](https://cryptojobsdaily.com/?ref=github.com/web3job/recruiters)**
     - **语言**: 英语
     - **说明**: 全球加密货币行业的招聘平台，提供远程和全职工作机会，涵盖多个领域的职位。
     - **推荐指数**: ★★★★☆
     - **排名理由**: 知名度相对较低，但职位更新频繁，覆盖全球职位。
 
-28. **[Crypto Careers](https://www.crypto-careers.com/)**
+28. **[Crypto Careers](https://www.crypto-careers.com/?ref=github.com/web3job/recruiters)**
     - **语言**: 英语
     - **说明**: 提供Web3和区块链行业的全职和远程工作机会，涵盖多个职位类别，适合开发者和管理层。
     - **推荐指数**: ★★★★☆
     - **排名理由**: 知名度中等，但职位更新较为及时，适合希望在Web3行业发展的求职者。
 
-29. **[Blockchain Works Hub](https://blockchain.works-hub.com/)**
+29. **[Blockchain Works Hub](https://blockchain.works-hub.com/?ref=github.com/web3job/recruiters)**
     - **语言**: 英语
     - **说明**: 专注于区块链技术的招聘平台，帮助开发者和技术人才找到合适的职位，职位多为技术相关。
     - **推荐指数**: ★★★★☆
     - **排名理由**: 针对区块链技术，职位更新频率适中，用户规模尚未达到顶峰。
 
-30. **[CryptoRecruit](https://www.cryptorecruit.com/candidates/browse-jobs/)**
+30. **[CryptoRecruit](https://www.cryptorecruit.com/candidates/browse-jobs/?ref=github.com/web3job/recruiters)**
     - **语言**: 英语
     - **说明**: 专门面向加密货币和区块链领域的招聘平台，提供多个国家的全职和远程职位。
     - **推荐指数**: ★★★☆☆
     - **排名理由**: 更新频率适中，涵盖范围广，但国际知名度尚待提升。
 
-31. **[A16Z Jobs](https://portfoliojobs.a16z.com/jobs)**
+31. **[A16Z Jobs](https://portfoliojobs.a16z.com/jobs?ref=github.com/web3job/recruiters)**
     - **语言**: 英语
     - **说明**: Andreessen Horowitz的投资组合公司招聘平台，提供Web3和区块链领域的职位，主要集中于初创企业。
     - **推荐指数**: ★★★★★
     - **排名理由**: 知名度极高，尤其是在投资和科技初创企业领域具有重大影响力。
 
-32. **[SequoiaCap Jobs](https://jobs.sequoiacap.com/jobs/)**
+32. **[SequoiaCap Jobs](https://jobs.sequoiacap.com/jobs/?ref=github.com/web3job/recruiters)**
     - **语言**: 英语
     - **说明**: 红杉资本的投资组合公司招聘平台，提供多个领域的技术和管理类职位，涵盖Web3和区块链相关岗位。
     - **推荐指数**: ★★★★★
