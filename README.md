@@ -109,19 +109,19 @@ updated at 2024-10-24
     - **推荐指数**: ★★★★☆
     - **排名理由**: 社区共享，信息可靠。
 
-18. **[Stablegram](https://stablegram.com/?ref=github.com/web3job/recruiters)**
+18. **[Stablegram](https://stablegram.com/?ref=github.com/web3job/recruiters?ref=github.com/web3job/recruiters)**
     - **语言**: 英语
     - **说明**: 帮助求职者找到有前途的Web3公司，主要集中于加密货币和区块链领域。
     - **推荐指数**: ★★★★☆
     - **排名理由**: 专注于加密领域，但职位更新频率一般。
 
-19. **[Talentverse](https://talent-verse.notion.site/Talentverse-690e2af2939346b1bace7a7bb959c12d)**
+19. **[Talentverse](https://talent-verse.notion.site/Talentverse-690e2af2939346b1bace7a7bb959c12d?ref=github.com/web3job/recruiters)**
     - **语言**: 中文 + 英文
     - **说明**: 一个专注于Web3和AI新兴领域的人才招聘平台，致力于为全球企业提供高质量人才。
     - **推荐指数**: ★★★★☆
     - **排名理由**: 新兴平台，发展潜力大，但当前影响力有限。
 
-20. **[TinTin Job Board](https://attractive-spade-1e3.notion.site/37f6da2316a845fba6ff6f62f3c50289?v=e88aaffca0ee462db5e9daa53946059f)**
+20. **[TinTin Job Board](https://attractive-spade-1e3.notion.site/37f6da2316a845fba6ff6f62f3c50289?v=e88aaffca0ee462db5e9daa53946059f?ref=github.com/web3job/recruiters)**
     - **语言**: 中文
     - **说明**: 一个专注于Web3开发者的招聘平台，提供技术职位和社区资源。
     - **推荐指数**: ★★★☆☆
