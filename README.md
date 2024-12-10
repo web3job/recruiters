@@ -37,7 +37,7 @@ updated at 2024-11-26
    - **推荐指数**: ★★★★★
    - **排名理由**: 知名度高，更新频繁，用户社区活跃。
 
-6. **[CryptoSquare](https://www.cryptosquare.org/cat=bbs_web3_jobs&lng=zh-cn)**
+6. **[CryptoSquare](https://www.cryptosquare.org/)**
    - **语言**: 中文
    - **说明**: 主要为Web3和区块链行业提供中文和英文的招聘机会，聚焦亚洲市场。
    - **推荐指数**: ★★★★☆
