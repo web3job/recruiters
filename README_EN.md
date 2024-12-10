@@ -3,7 +3,7 @@ Summary of Web3 work/Remote Work Recruitment Websites/web3 job/remote job
 
 [中文](README.md)
 
-updated on 2024-10-24
+updated on 2024-12-10
 
 # Web3 Recruitment Platforms
 
