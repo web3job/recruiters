@@ -1,5 +1,5 @@
 # recruiters
- web3工作/remote工作招聘网站汇总/远程工作
+ web3工作/remote工作/招聘网站汇总/远程工作/remote work/远程招聘
 
 [English](README_EN.md)
 
