@@ -1,9 +1,9 @@
 # recruiters
- web3工作/remote工作/招聘网站汇总/远程工作/remote work/远程招聘
+ web3工作/remote工作/招聘网站汇总/远程工作/remote work/远程招聘/在家上班
 
 [English](README_EN.md)
 
-updated at 2024-12-10
+updated at 2025-04-25
 
 # Web3招聘平台汇总
 
