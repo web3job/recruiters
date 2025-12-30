@@ -3,7 +3,7 @@
 
 [English](README_EN.md)
 
-updated at 2025-04-25
+updated at 2025-12-30
 
 # Web3招聘平台汇总
 
